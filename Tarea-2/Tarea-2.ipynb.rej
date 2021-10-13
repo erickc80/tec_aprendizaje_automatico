@@ -1,0 +1,16 @@
+diff a/Tarea-2/Tarea-2.ipynb b/Tarea-2/Tarea-2.ipynb	(rejected hunks)
+@@ -92,12 +92,12 @@
+    "source": [
+     "##### Visualización de Datos:\n",
+     "\n",
+-    "    Se visualizan las primeras filas de datos del dataset de hotel_bookings.csv"
++    "    Es recomendable visualizar los datos para ver el estado de las columnas para ello se puede utilizar la funcion head "
+    ]
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 39,
++   "execution_count": 6,
+    "id": "ce597c6f",
+    "metadata": {},
+    "outputs": [
